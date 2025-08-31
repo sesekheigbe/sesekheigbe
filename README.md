@@ -4,14 +4,14 @@ Welcome to my GitHub profile! I am a Data Engineer with experience since 2021, b
 
 ## Portfolio
 For my complete academic and professional portfolio, visit:  
-[My ePortfolio]([https://www.mygreatlearning.com/eportfolio/solomon-esekheigbe])
+[My ePortfolio](https://www.mygreatlearning.com/eportfolio/solomon-esekheigbe)
 
 ## Featured Projects
-- [SuperKart Store Revenue Prediction](https://github.com/sesekheigbe/superkart-store-revenue-prediction)  
+- [SuperKart Revenue Forecasting](https://github.com/sesekheigbe/superkart-revenue-forecasting)  
 - More projects coming soon...
 
 ## Contact
-- LinkedIn: [linkedin.com/in/solomon-esekheigbe-72a12](https://www.linkedin.com/in/solomon-esekheigbe-72a12)  
+- LinkedIn: [linkedin.com/in/solomon-esekheigbe-72a127b](https://www.linkedin.com/in/solomon-esekheigbe-72a127b)  
 - GitHub: [sesekheigbe](https://github.com/sesekheigbe)  
-- Email (personal): seekheigbe@gmail.com  
+- Email (personal): sesekheigbe@gmail.com  
 - Email (business): sol@mattstellaventures.com  
